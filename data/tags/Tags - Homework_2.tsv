@@ -1,0 +1,16 @@
+Question	Background Tags	ML Tags	Meta Tags
+Q1a		ml-it-entropy	meta--numerical,meta--multipart
+Q1b		ml-it-mi	meta--numerical,meta--multipart
+Q1c		ml-it-mi	meta--numerical,meta--multipart
+Q1d		ml-it-mi	meta--numerical,meta--multipart
+Q1e		ml-it-mi,ml-dt-	meta--selectone,meta--multipart
+Q1f		ml-it-mi,ml-dt-	meta--selectone,meta--multipart
+Q1g	bkgrd-cs-tree	ml-it-mi,ml-dt-	meta--numerical,meta--multipart
+Q1h	bkgrd-cs-tree	ml-it-mi,ml-dt-	meta--drawing,meta--multipart
+Q2a	bkgrd-cs-prog	ml-dt-	meta--numerical
+Q2b	bkgrd-cs-prog	ml-dt-	meta--plot
+Q2c		ml-dt-,ml-ml_basics-hyper	meta--reasoning
+Q2d		ml-dt-,ml-ml_basics-hyper	meta--reasoning
+Q2e		ml-ml_basics-hyper	meta--reasoning
+Q2f	bkgrd-cs-prog	ml-dt-	meta--plot
+Q2g	ignore	ignore	ignore

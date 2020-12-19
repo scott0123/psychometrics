@@ -1,0 +1,34 @@
+Question	Background Tags	ML Tags	Meta Tags
+1	ignore	ignore	ignore
+2.1	bkgrd-geo-	ml-nn-	meta--selectall
+2.2	bkgrd-geo-	ml-nn-	meta--selectall
+2.3	bkgrd-geo-	ml-nn-	meta--selectall
+2.4	bkgrd-geo-	ml-nn-	meta--selectall
+3.1		ml-nn-,ml-ml_basics-overfit	meta--selectone
+3.2	bkgrd-linalg-	ml-nn-	meta--numerical
+3.3		ml-nn-,ml-cnn-	meta--selectall
+3.4	bkgrd-linalg-	ml-cnn-	meta--numerical
+3.5		ml-nn-,ml-cnn-,ml-ml_basics-params	meta--numerical
+3.6		ml-nn-,ml-cnn-,ml-ml_basics-params	meta--numerical,meta--reasoning
+4.1	bkgrd-func-	ml-regl-,ml-ml_basics-overfit	meta--selectall
+4.2		ml-data-feature,ml-regl-	meta--selectall
+5.1		ml-learntheory-pac	meta--selectall
+5.2	bkgrd-geo-	ml-learntheory-vc	meta--selectone
+5.3		ml-learntheory-pac	meta--numerical
+5.4		ml-learntheory-pac,ml-learntheory-vc	meta--expression
+5.5		ml-learntheory-pac	meta--selectone
+6.1	bkgrd-prob-cond		meta--selectone
+6.2	bkgrd-prob-cond		meta--selectone
+6.3	bkgrd-prob-cond		meta--numerical
+7.1	bkgrd-prob-cond		meta--numerical
+7.2	bkgrd-prob-cond		meta--numerical
+8.1	bkgrd-prob-distr,bkgrd-prob-mle	ml-mle-,ml-map-	meta--selectone
+8.2	bkgrd-prob-distr,bkgrd-prob-mle	ml-mle-,ml-map-	meta--selectone
+9.1	bkgrd-prob-distr	ml-linreg-	meta--selectone
+9.2	bkgrd-prob-distr,bkgrd-prob-mle	ml-linreg-,ml-mle-	meta--selectone
+9.3	bkgrd-manip-		meta--selectall
+9.4	bkgrd-prob-mle	ml-linreg-,ml-mle-	meta--selectone
+9.5	bkgrd-prob-distr,bkgrd-prob-mle,bkgrd-manip-	ml-linreg-,ml-map-	meta--selectone
+9.6	bkgrd-manip-	ml-regl-	meta--selectone
+9.7	bkgrd-prob-distr	ml-ml_basics-exp	meta--selectone
+9.8	bkgrd-prob-distr,bkgrd-manip-	ml-map-	meta--selectone

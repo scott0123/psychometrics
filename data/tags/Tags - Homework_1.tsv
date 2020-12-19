@@ -1,0 +1,65 @@
+Question	Background Tags	ML Tags	Meta Tags
+Q1.1		other--policy	meta--selectone
+Q1.2		other--policy	meta--numerical
+Q1.3		other--policy	meta--numerical
+Q1.4		other--policy	meta--selectall
+Q1.5		other--policy	meta--selectone
+Q1.6		other--policy	meta--selectone
+Q1.7		other--policy	meta--selectone
+Q1.8		other--policy	meta--selectone
+Q2.1	ignore	ignore	ignore
+Q2.2	bkgrd-prob-,bkgrd-prob-rv		meta--selectone,meta--multipart
+Q2.3	bkgrd-prob-mle,bkgrd-prob-rv		meta--numerical,meta--multipart
+Q2.4	bkgrd-prob-cond		meta--selectone
+Q2.5	bkgrd-prob-cond,bkgrd-prob-rv		meta--selectone
+Q2.6	ignore	ignore	ignore
+Q2.7	bkgrd-prob-cond		meta--selectone,meta--multipart
+Q2.8	bkgrd-prob-		meta--selectone,meta--multipart
+Q2.9	ignore	ignore	ignore
+Q2.10	bkgrd-prob-rv,bkgrd-prob-expect		meta--selectone,meta--multipart
+Q2.11	bkgrd-prob-rv,bkgrd-prob-expect		meta--selectone,meta--multipart
+Q2.12	bkgrd-prob-rv,bkgrd-prob-expect		meta--selectone,meta--multipart
+Q2.13	ignore	ignore	ignore
+Q2.14	bkgrd-prob-cond		meta--selectall,meta--multipart
+Q2.15	bkgrd-prob-cond		meta--numerical,meta--multipart
+Q2.16	bkgrd-prob-cond		meta--selectone,meta--multipart
+Q2.17	bkgrd-prob-rv,bkgrd-prob-expect,bkgrd-prob-cond		meta--selectone
+Q2.18	bkgrd-prob-rv,bkgrd-prob-distr		meta--selectone
+Q2.19	ignore	ignore	ignore
+Q2.20	bkgrd-prob-distr		meta--selectone,meta--multipart
+Q2.21	bkgrd-prob-distr		meta--selectone,meta--multipart
+Q2.22	bkgrd-prob-distr		meta--selectone,meta--multipart
+Q2.23	bkgrd-prob-distr		meta--selectone,meta--multipart
+Q2.24	bkgrd-prob-distr		meta--selectone,meta--multipart
+Q3.1	bkgrd-calc-differ		meta--numerical
+Q3.2	bkgrd-calc-differ		meta--selectone
+Q3.3	bkgrd-calc-differ		meta--selectone
+Q3.4	bkgrd-func-		meta--selectone
+Q4.1	bkgrd-linalg-		meta--selectone
+Q4.2	bkgrd-linalg-		meta--selectone
+Q4.3	bkgrd-linalg-		meta--selectall
+Q4.4	bkgrd-linalg-		meta--selectone
+Q4.5	bkgrd-linalg-		meta--selectone
+Q4.6	bkgrd-linalg-,bkgrd-calc-differ		meta--selectone
+Q4.7	bkgrd-linalg-eigen		meta--selectone
+Q5.1	bkgrd-geo-		meta--selectone
+Q5.2	bkgrd-geo-		meta--selectone
+Q5.3	bkgrd-geo-		meta--selectone
+Q6.1	bkgrd-cs-bigo		meta--selectone
+Q6.2	bkgrd-cs-bigo		meta--selectone
+Q6.3	bkgrd-cs-tree		meta--selectone
+Q6.4	ignore	ignore	ignore
+Q6.5	bkgrd-cs-tree		meta--reasoning,meta--multipart
+Q6.6	bkgrd-cs-tree		meta--reasoning,meta--multipart
+Q6.7	ignore	ignore	ignore
+Q6.8	bkgrd-cs-rec		meta--code,meta--multipart
+Q6.9	bkgrd-cs-rec		meta--code,meta--multipart
+Q6.10	bkgrd-cs-rec		meta--code,meta--multipart
+Q6.11	bkgrd-cs-rec		meta--code,meta--multipart
+Q6.12	bkgrd-cs-rec,bkgrd-cs-prog		meta--selectone
+Q6.13	ignore	ignore	ignore
+Q6.14	bkgrd-cs-rec,bkgrd-cs-bigo		meta--selectone,meta--multipart
+Q6.15	bkgrd-cs-rec,bkgrd-cs-bigo		meta--selectone,meta--multipart
+Q7.1	ignore	ignore	ignore
+Q7.2	ignore	ignore	ignore
+Q7.3	ignore	ignore	ignore

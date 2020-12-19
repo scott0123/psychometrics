@@ -1,0 +1,34 @@
+Question	Background Tags	ML Tags	Meta Tags
+1.1	bkgrd-linalg-	ml-nn-,ml-ml_basics-params	meta--numerical
+1.2		ml-nn-,ml-ml_basics-params	meta--numerical
+1.3	bkgrd-linalg-	ml-nn-	meta--expression
+1.4	bkgrd-linalg-	ml-nn-	meta--selectone
+1.5	bkgrd-linalg-	ml-nn-	meta--expression
+1.6	bkgrd-calc-differ	ml-nn-	meta--expression
+1.7	bkgrd-calc-differ	ml-nn-	meta--expression
+1.8	bkgrd-calc-differ	ml-nn-	meta--expression
+1.9		ml-nn-	meta--reasoning
+1.10	bkgrd-calc-differ	ml-nn-	meta--expression
+1.11	bkgrd-calc-differ	ml-nn-	meta--expression
+1.12	bkgrd-calc-differ	ml-nn-	meta--expression
+1.13		ml-nn-,ml-nn-fwd	meta--numerical
+1.14		ml-nn-,ml-nn-fwd	meta--numerical
+1.15		ml-nn-,ml-nn-fwd	meta--numerical
+1.16		ml-nn-,ml-nn-fwd	meta--numerical
+1.17		ml-nn-,ml-nn-fwd	meta--numerical
+1.18		ml-nn-,ml-nn-fwd	meta--numerical
+1.19		ml-nn-,ml-nn-fwd	meta--numerical
+1.20		ml-nn-,ml-classification-	meta--numerical
+1.21		ml-nn-,ml-ml-loss-	meta--numerical
+1.22		ml-nn-,ml-nn-backprop	meta--numerical
+1.23		ml-nn-,ml-nn-backprop	meta--numerical
+1.24		ml-nn-,ml-nn-backprop	meta--numerical
+1.25		ml-nn-,ml-nn-backprop	meta--numerical
+2.1	bkgrd-cs-prog	ml-nn-	meta--plot
+2.2		ml-nn-,ml-ml_basics-hyper	meta--reasoning
+2.3	bkgrd-cs-prog	ml-nn-	meta--plot,meta--multipart
+2.4	bkgrd-cs-prog	ml-nn-	meta--plot,meta--multipart
+2.5	bkgrd-cs-prog	ml-nn-	meta--plot,meta--multipart
+2.6		ml-nn-,ml-ml_basics-hyper	meta--reasoning
+2.7		ml-nn-,ml-ml_basics-hyper	meta--reasoning
+3	ignore	ignore	ignore

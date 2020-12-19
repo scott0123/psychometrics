@@ -1,0 +1,101 @@
+meta--,Meta
+meta--plot,Plotting
+meta--drawing,Drawing
+meta--code,Code
+meta--reasoning,Logical reasoning
+meta--numerical,Numerical problems
+meta--selectone,Select-one problems
+meta--selectall,Select-all problems
+meta--multipart,Multi-part problems
+meta--expression,Expressions/proofs
+meta--order,Ordering problems
+other--policy,Course policy
+bkgrd--,Background
+bkgrd-prob-,General probability
+bkgrd-prob-mle,MLE (probability)
+bkgrd-prob-cond,Conditional probability
+bkgrd-prob-rv,Random variables
+bkgrd-prob-expect,Expected values
+bkgrd-prob-distr,Probability distributions
+bkgrd-calc-,General calculus
+bkgrd-calc-differ,Differentiation
+bkgrd-calc-lagrange,Lagrangians
+bkgrd-calc-integ,Integration
+bkgrd-func-,Functions
+bkgrd-linalg-,Linear algebra
+bkgrd-linalg-eigen,Eigenvalues/vectors
+bkgrd-geo-,Geometry
+bkgrd-cs-,CS foundations
+bkgrd-cs-bigo,Big-O notation
+bkgrd-cs-tree,Tree search
+bkgrd-cs-rec,Recursion
+bkgrd-cs-prog,Code-related
+bkgrd-manip-,Algebraic manipulation
+ml--,Machine learning
+ml-it-gini,Gini impurity
+ml-it-mi,Mutual information
+ml-it-entropy,Entropy
+ml-ml_basics-exp,Experimental design
+ml-ml_basics-params,Parameter count
+ml-ml_basics-hyper,ML hyperparameters
+ml-ml_basics-overfit,Overfitting
+ml-classification-,Classification problems
+ml-dt-,Decision tree
+ml-dt-boundary,DT decision boundary
+ml-knn-,K-nearest neighbors
+ml-knn-boundary,KNN decision boundary
+ml-knn-ties,KNN tie breaking
+ml-knn-regr,KNN regression
+ml-perceptron-,Perceptrons
+ml-perceptron-mb,Perceptron mistake bound
+ml-perceptron-boundary,Perceptron boundary
+ml-linreg-,Linear regression
+ml-ml-loss-,Loss functions
+ml-opt-,General optimization
+ml-opt-convex,Convexity
+ml-opt-gd,Gradient descent
+ml-opt-sgd,Stochastic gradient descent
+ml-logreg-,Logistic regression
+ml-data-,Data
+ml-data-dimensionality,Data dimensionality
+ml-data-feature,Feature engineering
+ml-regl-,Regularization
+ml-nn-,Neural networks
+ml-cnn-,Convolutional neural networks
+ml-rnn-,Recurrent neural networks
+ml-nn-fwd,Foward-propagation
+ml-nn-backprop,Back-propagation
+ml-learntheory-,Learning theory
+ml-learntheory-pac,PAC theorem
+ml-learntheory-vc,VC dimension
+ml-mle-,MLE (applied in ML)
+ml-map-,MAP
+ml-nb-,Naive Bayes
+ml-nb-gaussian,Naive Bayes (Gaussian)
+ml-hmm-,Hidden markov models
+ml-hmm-fb,HMM forward backward
+ml-hmm-vi,HMM Viterbi
+ml-gm-,Graphical models
+ml-rl-,Reinforcement learning
+ml-rl-mdp,Markov decision process
+ml-rl-value_iter,Value iteration
+ml-rl-policy_iter,Policy iteration
+ml-rl-qlearning,Q learning
+ml-clustering-,General clustering
+ml-clustering-kmeans,K-means clustering
+ml-clustering-gmm,Gaussian mixture models
+ml-clustering-em,Expectation maximization
+ml-clustering-heirach,Hierarchical clustering
+ml-dimred-,Dimensionality reduction
+ml-dimred-pca,PCA
+ml-dimred-ica,ICA
+ml-svm-,Support vector machines
+ml-svm-boundary,SVM decision boundary
+ml-kernel-,Kernels
+ml-ensemble-,Ensemble methods
+ml-ensemble-adaboost,Adaboost
+ml-ensemble-wm,Weighted majority
+ml-recommender-,Recommender systems
+ml-nonparametric-,Non-parametric regression
+ml-genvsdis-,Generative/discriminative
+ml-ethics-,ML Ethics

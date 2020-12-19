@@ -1,0 +1,39 @@
+Question	Background Tags	ML Tags	Meta Tags
+Q1	ignore	ignore	ignore
+Q2.1		ml-dt-,ml-knn-,ml-knn-ties	meta--reasoning
+Q2.2	bkgrd-geo-		meta--selectone
+Q2.3	ignore	ignore	ignore
+Q2.4		ml-knn-	meta--numerical,meta--multipart
+Q2.5		ml-knn-	meta--numerical,meta--multipart
+Q2.6		ml-knn-,ml-ml_basics-exp	meta--selectone
+Q2.7		ml-ml_basics-exp,ml-ml_basics-hyper	meta--reasoning
+Q2.8		ml-knn-ties	meta--selectone
+Q2.9	ignore	ignore	ignore
+Q2.10	bkgrd-geo-		meta--selectone,meta--multipart
+Q2.11		ml-knn-regr	meta--numerical,meta--multipart
+Q2.12		ml-data-,ml-knn-	meta--selectall,meta--multipart
+Q2.13		ml-dt-,ml-knn-,ml-linreg-,ml-dt-boundary,ml-knn-boundary,ml-ml_basics-overfit	meta--selectall
+Q2.14		ml-knn-,ml-ml_basics-overfit,ml-ml_basics-exp	meta--selectall
+Q3.1		ml-ml_basics-exp	meta--numerical
+Q3.2		ml-ml_basics-exp	meta--reasoning
+Q4.1		ml-linreg-	meta--selectone
+Q4.2	bkgrd-linalg-	ml-linreg-	meta--selectone
+Q4.3	bkgrd-linalg-	ml-linreg-	meta--numerical
+Q4.4		ml-linreg-	meta--selectone
+Q4.5	ignore	ignore	ignore
+Q4.6	bkgrd-linalg-	ml-linreg-	meta--numerical,meta--multipart
+Q4.7		ml-linreg-	meta--numerical,meta--multipart
+Q4.8		ml-linreg-	meta--numerical,meta--multipart
+Q4.9		ml-linreg-	meta--numerical,meta--multipart
+Q4.10		ml-linreg-	meta--reasoning
+4.11	bkgrd-func-	ml-opt-convex	meta--selectall
+Q4.12	bkgrd-cs-bigo,bkgrd-linalg-	ml-linreg-,ml-opt-gd	meta--selectall
+Q4.13	ignore	ignore	ignore
+Q4.14		ml-linreg-	meta--numerical,meta--multipart
+Q4.15	bkgrd-linalg-	ml-linreg-	meta--numerical,meta--multipart
+Q4.16	bkgrd-linalg-	ml-linreg-	meta--numerical,meta--multipart
+Q4.17		ml-linreg-	meta--numerical,meta--multipart
+Q4.18	bkgrd-cs-prog	ml-linreg-,ml-ml_basics-hyper	meta--numerical,meta--multipart
+Q5.1	ignore	ignore	ignore
+Q5.2	ignore	ignore	ignore
+Q5.3	ignore	ignore	ignore

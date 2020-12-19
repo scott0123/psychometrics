@@ -1,0 +1,19 @@
+Question	Background Tags	ML Tags	Meta Tags
+1.1.a	bkgrd-func-	ml-logreg-,ml-opt-convex,ml-opt-gd	meta--selectall
+1.2.b		ml-logreg-,ml-opt-gd	meta--selectone
+2.1.a	bkgrd-prob-mle		meta--numerical,meta--multipart
+2.2.b	bkgrd-calc-differ		meta--numerical,meta--multipart
+2.3.c	bkgrd-calc-differ	ml-opt-gd	meta--numerical,meta--multipart
+2.4.d	bkgrd-prob-cond,bkgrd-linalg-		meta--numerical,meta--expression
+3.1.a		ml-classification-,ml-logreg-	meta--selectall
+3.2.b	bkgrd-prob-mle,bkgrd-manip-	ml-logreg-	meta--expression
+3.3.c	bkgrd-manip-		meta--expression
+3.4.d	bkgrd-calc-differ,bkgrd-manip-		meta--expression
+3.5.e		ml-opt-sgd	meta--code
+3.6.f		ml-logreg-,ml-regl-	meta--reasoning
+3.7.g		ml-regl-	meta--selectall
+4.1.a	bkgrd-cs-prog	ml-logreg-	meta--plot,meta--multipart
+4.2.b	bkgrd-cs-prog	ml-logreg-	meta--plot,meta--multipart
+4.3.c		ml-logreg-	meta--reasoning,meta--multipart
+4.4.d	bkgrd-cs-prog	ml-logreg-	meta--numerical
+5	ignore	ignore	ignore
